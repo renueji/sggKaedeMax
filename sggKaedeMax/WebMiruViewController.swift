@@ -23,7 +23,7 @@ class WebMiruViewController: UIViewController {
         }
     }
     
-    //「もう一度Webを見る」ボタンが押されたとき、上の処理を再実行
+    //「もう一度Webを見る」ボタンが押されたとき、上の処理を再実行する
     @IBAction func oneMoreButton(_ sender: UIButton) {
         self.viewDidLoad()
     }

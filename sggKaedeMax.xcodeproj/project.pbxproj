@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1809660923EFFECE00F68CF0 /* WebMiruViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1809660823EFFECE00F68CF0 /* WebMiruViewController.swift */; };
+		1809660B23F049C200F68CF0 /* KaedeResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1809660A23F049C200F68CF0 /* KaedeResultViewController.swift */; };
 		1817A25523E120A200140E0D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1817A25423E120A200140E0D /* AppDelegate.swift */; };
 		1817A25723E120A200140E0D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1817A25623E120A200140E0D /* SceneDelegate.swift */; };
 		1817A25923E120A200140E0D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1817A25823E120A200140E0D /* ViewController.swift */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1809660823EFFECE00F68CF0 /* WebMiruViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebMiruViewController.swift; sourceTree = "<group>"; };
+		1809660A23F049C200F68CF0 /* KaedeResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KaedeResultViewController.swift; sourceTree = "<group>"; };
 		1817A25123E120A200140E0D /* sggKaedeMax.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = sggKaedeMax.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1817A25423E120A200140E0D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1817A25623E120A200140E0D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,7 +63,9 @@
 				1817A25423E120A200140E0D /* AppDelegate.swift */,
 				1817A25623E120A200140E0D /* SceneDelegate.swift */,
 				1817A25823E120A200140E0D /* ViewController.swift */,
+				1809660A23F049C200F68CF0 /* KaedeResultViewController.swift */,
 				1817A25A23E120A200140E0D /* Main.storyboard */,
+				1809660823EFFECE00F68CF0 /* WebMiruViewController.swift */,
 				1817A25D23E120A800140E0D /* Assets.xcassets */,
 				1817A25F23E120A800140E0D /* LaunchScreen.storyboard */,
 				1817A26223E120A800140E0D /* Info.plist */,
@@ -138,7 +144,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1809660923EFFECE00F68CF0 /* WebMiruViewController.swift in Sources */,
 				1817A25923E120A200140E0D /* ViewController.swift in Sources */,
+				1809660B23F049C200F68CF0 /* KaedeResultViewController.swift in Sources */,
 				1817A25523E120A200140E0D /* AppDelegate.swift in Sources */,
 				1817A25723E120A200140E0D /* SceneDelegate.swift in Sources */,
 			);

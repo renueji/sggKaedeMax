@@ -14,7 +14,7 @@ class ViewController: UIViewController, UIPickerViewDelegate, UIPickerViewDataSo
     var fromPickerView: UIPickerView = UIPickerView()
     var toPickerView: UIPickerView = UIPickerView()
     
-    //時間を表すデータピッカーを生成
+    //時間を表すデータピッカーを生成します
     var jikandp: UIDatePicker = UIDatePicker()
     
     //全ての駅のリストを配列で用意
